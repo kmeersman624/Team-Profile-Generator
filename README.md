@@ -29,7 +29,7 @@
 
   ## Tests
 
-  ![video of app](./assets/teamvideo.zip)
+  ![video of app](./assets/teamprofilevideo.gif)
 
   ![image of npm](./assets/team1.PNG)
 
